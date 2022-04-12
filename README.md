@@ -13,3 +13,7 @@
 6.Finally draw the points stored in array on the frames and canvas .
 
 Requirements: python,numpy,opencv.
+
+
+https://user-images.githubusercontent.com/79081616/162958738-884eb3c1-509c-4564-a8c0-fc6fe8601da3.mov
+
